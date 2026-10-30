@@ -18,7 +18,7 @@
 <p align="center">
   🌐 <a href="https://auraeventaigithubio.vercel.app/"><strong>VISIT LIVE WEBSITE</strong></a>
   &nbsp; | &nbsp;
-  💻 <a href="https://github.com/auraeventai/auraeventai.github.io"><strong>GITHUB REPOSITORY</strong></a>
+  💻 <a href="https://github.com/RUDRA8976/auraeventai.github.io/"><strong>GITHUB REPOSITORY</strong></a>
 </p>
 
 ---
