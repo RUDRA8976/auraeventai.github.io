@@ -2,8 +2,8 @@
 ### Your AI-Powered Event Planning Assistant
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event-Planning-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event%20Planning-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" />
 </p>
 
@@ -12,93 +12,52 @@
 </p>
 
 <p align="center">
-  AuraEventAI is a GenAI-powered event planning assistant that transforms your ideas into organized, personalized event plans. From weddings and birthdays to community celebrations, plan everything with intelligent AI assistance.
+  AuraEventAI is a Generative AI-powered event planning assistant that helps users organize memorable events with personalized ideas, budget planning, timelines, and vendor checklists.
 </p>
 
 <p align="center">
   🌐 <a href="https://auraeventaigithubio.vercel.app/"><strong>VISIT LIVE WEBSITE</strong></a>
   &nbsp; | &nbsp;
-  💻 <a href="https://github.com/RUDRA8976/auraeventai.github.io/"><strong>GITHUB REPOSITORY</strong></a>
+  💻 <a href="https://github.com/RUDRA8976/auraeventai.github.io"><strong>GITHUB REPOSITORY</strong></a>
 </p>
 
 ---
 
-## 🌟 About AuraEventAI
+## 🌟 About the Project
 
-Planning an event involves multiple tasks — budgeting, scheduling, vendor coordination, and creative decisions.
+AuraEventAI simplifies event planning by bringing intelligent AI assistance and essential planning features together in one platform.
 
-**AuraEventAI makes event planning easier and more organized.**
-
-Using Generative AI, it helps users create personalized event plans, manage estimated budgets, organize preparation timelines, and maintain vendor checklists — all through an intelligent planning experience.
+Whether you are organizing a wedding, birthday party, or community celebration, AuraEventAI helps transform your ideas into structured and personalized event plans.
 
 ## 🚀 Key Features
 
 | Feature | Description |
 |---|---|
-| 🤖 AI Event Assistant | Get AI-powered event planning assistance. |
-| 💍 Wedding Planning | Organize wedding arrangements and preparations. |
-| 🎂 Birthday Planning | Generate personalized birthday planning ideas. |
-| 🎉 Community Events | Organize gatherings and community celebrations. |
-| 💰 Budget Management | Plan and organize estimated event expenses. |
-| 📅 Smart Timelines | Structure event preparation schedules. |
-| 📋 Vendor Checklists | Keep track of vendors and important tasks. |
-| 💡 Personalized Ideas | Discover suggestions based on event preferences. |
+| 🤖 AI Event Planning | Intelligent assistance for organizing events. |
+| 💍 Wedding Planning | Personalized wedding planning ideas. |
+| 🎂 Birthday Planning | Plan memorable birthday celebrations. |
+| 🎉 Community Events | Organize community gatherings. |
+| 💰 Budget Management | Plan and organize event expenses. |
+| 📅 Event Timelines | Create structured preparation schedules. |
+| 📋 Vendor Checklists | Manage vendors and event arrangements. |
+| 💡 Personalized Ideas | Get suggestions based on event preferences. |
 
-## 🎯 Supported Events
+## 🎯 Event Categories
 
 - 💒 Weddings & Engagements
 - 🎂 Birthday Celebrations
-- 🎊 Community Gatherings
+- 🎊 Community Events
 - 🎉 Special Occasions
 - 🥳 Personal Celebrations
 
 ## 💻 Technology
 
-AuraEventAI is built as a web-based AI event planning experience.
+A web-based event planning platform powered by Generative AI and modern web technologies.
 
-> Update this section with the exact frameworks, programming languages, APIs, and services used in the repository.
+## 🌐 Project Links
 
-## 🌐 Live Demo
-
-<p align="center">
-  <a href="https://auraeventaigithubio.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Explore_AuraEventAI-Visit_Now-7C3AED?style=for-the-badge" />
-  </a>
-</p>
-
-## 📂 Repository Structure
-
-```text
-auraeventai.github.io/
-│
-├── index.html
-├── assets/
-├── css/
-├── js/
-└── README.md
-```
-
-*Illustrative structure — adjust it to match the actual repository files.*
-
-
-## 🔮 Project Vision
-
-Our vision is to make event planning smarter, faster, and more accessible through Generative AI.
-
-AuraEventAI aims to reduce the complexity of organizing events so people can focus on creating unforgettable memories.
-
-## 🤝 Contributions
-
-Contributions, suggestions, and feedback are welcome!
-
-1. Fork this repository.
-2. Create a new branch.
-3. Make your improvements.
-4. Submit a Pull Request.
-
-## 📩 Feedback & Support
-
-Have an idea or found an issue? Feel free to open an issue in this repository.
+- **Live Website:** https://auraeventaigithubio.vercel.app/
+- **GitHub Repository:** https://github.com/RUDRA8976/auraeventai.github.io
 
 ---
 
@@ -109,8 +68,4 @@ Have an idea or found an issue? Feel free to open an issue in this repository.
 <h3 align="center">✨ AuraEventAI</h3>
 <p align="center">
   **Plan Smarter. Celebrate Better.**
-</p>
-
-<p align="center">
-  🌐 https://auraeventaigithubio.vercel.app
 </p>
