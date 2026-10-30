@@ -127,5 +127,5 @@ Have an idea or found an issue? Feel free to open an issue in this repository.
 </p>
 
 <p align="center">
-  🌐 https://auraeventai.github.io/
+  🌐 https://auraeventaigithubio.vercel.app
 </p>
