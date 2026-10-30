@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://auraeventai.github.io/"><strong>VISIT LIVE WEBSITE</strong></a>
+  🌐 <a href="https://auraeventaigithubio.vercel.app/"><strong>VISIT LIVE WEBSITE</strong></a>
   &nbsp; | &nbsp;
   💻 <a href="https://github.com/auraeventai/auraeventai.github.io"><strong>GITHUB REPOSITORY</strong></a>
 </p>
@@ -61,7 +61,7 @@ AuraEventAI is built as a web-based AI event planning experience.
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://auraeventai.github.io/">
+  <a href="https://auraeventaigithubio.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Explore_AuraEventAI-Visit_Now-7C3AED?style=for-the-badge" />
   </a>
 </p>
