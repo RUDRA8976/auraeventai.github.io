@@ -80,21 +80,6 @@ auraeventai.github.io/
 
 *Illustrative structure — adjust it to match the actual repository files.*
 
-## ⚙️ Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/auraeventai/auraeventai.github.io.git
-```
-
-Navigate to the project:
-
-```bash
-cd auraeventai.github.io
-```
-
-Open `index.html` in your browser or run the project using the development setup specified by its framework.
 
 ## 🔮 Project Vision
 
